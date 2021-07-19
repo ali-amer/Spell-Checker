@@ -1,0 +1,15 @@
+C:\Users\ATOnline\source\repos\DSProject\bin\Debug\DSProject.exe.config
+C:\Users\ATOnline\source\repos\DSProject\bin\Debug\DSProject.exe
+C:\Users\ATOnline\source\repos\DSProject\bin\Debug\DSProject.pdb
+C:\Users\ATOnline\source\repos\DSProject\obj\Debug\DSProject.csprojAssemblyReference.cache
+C:\Users\ATOnline\source\repos\DSProject\obj\Debug\DSProject.Form1.resources
+C:\Users\ATOnline\source\repos\DSProject\obj\Debug\DSProject.Properties.Resources.resources
+C:\Users\ATOnline\source\repos\DSProject\obj\Debug\DSProject.csproj.GenerateResource.cache
+C:\Users\ATOnline\source\repos\DSProject\obj\Debug\DSProject.csproj.CoreCompileInputs.cache
+C:\Users\ATOnline\source\repos\DSProject\obj\Debug\DSProject.exe
+C:\Users\ATOnline\source\repos\DSProject\obj\Debug\DSProject.pdb
+C:\Users\ATOnline\source\repos\DSProject\obj\Debug\DSProject.Form2.resources
+C:\Users\ATOnline\source\repos\DSProject\obj\Debug\DSProject.Form3.resources
+C:\Users\ATOnline\source\repos\DSProject\obj\Debug\DSProject.Form4.resources
+C:\Users\ATOnline\source\repos\DSProject\obj\Debug\DSProject.Form5.resources
+C:\Users\ATOnline\source\repos\DSProject\obj\Debug\DSProject.Form6.resources
